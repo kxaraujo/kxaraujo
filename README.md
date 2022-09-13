@@ -1,6 +1,5 @@
 ### Olá mundo, eu sou Karol Araújo 👋
 
-- 🌱 Atualmente estou estudando Python 🐍
 - 📫 keydev@gmail.com
 - 😄 Ela/dela
 
